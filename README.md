@@ -140,16 +140,16 @@ This README teaches common Markdown syntax by showing the **Markdown code** and 
 ```markdown
 [Visit GitHub](https://github.com)
 ```
-
-### Output
-
-[Visit GitHub](https://github.com)
-
 The syntax is:
 
 ```text
 [Text that user clicks](URL)
 ```
+
+### Output
+
+[Visit GitHub](https://github.com)
+
 
 ---
 
